@@ -1,6 +1,6 @@
 CHART_REPO := http://jenkins-x-chartmuseum:8080
 DIR := "env"
-NAMESPACE := "pr-1319-4-staging"
+NAMESPACE := "pr-1401-1-staging"
 OS := $(shell uname)
 
 build: clean
